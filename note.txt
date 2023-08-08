@@ -1,0 +1,16 @@
+1. app: This directory contains the source code for a project.
+
+2.node_modules: This directory contains the dependencies that your project requires. It's generated automatically when i install packages using npm or yarn.
+
+3. public: Assets placed here, like images or fonts.
+
+4. .gitignore: This file specifies which files and directories should be ignored.
+
+5. next.config.js: This file is for configure Next.js project, such as the port number, the environment variables, and the custom middleware.
+
+6. package-lock.json:This file is used to provide a deterministic and consistent description of the project's dependencies.
+
+7. package.json: This file holds metadata about a project and lists the project's dependencies.
+
+8. README.md: A file that usually contains information about the project.
+
